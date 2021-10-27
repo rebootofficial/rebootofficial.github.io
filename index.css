@@ -1,0 +1,21 @@
+#title {
+    text-align: center;
+    color: white;
+}
+
+#wtf {
+    text-align: center;
+    color: white;
+}
+
+#explain {
+    color: hsl(96, 94%, 46%);
+}
+
+body {
+    background-color: rgb(20, 20, 20);
+}
+
+li{
+    color: white;
+}
